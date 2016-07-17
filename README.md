@@ -1,3 +1,3 @@
 # just js
-js should be fine
-some practical cases.
+js should be fine,
+this is some practical cases.
